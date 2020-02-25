@@ -1,12 +1,5 @@
-{
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
- 
-}
+{"logIn":[  
+    {"id":1,"name":"Shyam", "email":"abc@gmail.com"},  
+    {"id":2,"name":"Bob", "email":"bob@gmail.com"},  
+    {"id":3,"name":"Jai", "email":"jai@gmail.com"}  
+]}  
